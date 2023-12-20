@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "355881658823",
+    "project_id": "kurs-4f337",
+    "storage_bucket": "kurs-4f337.appspot.com",
+    "firebase_url": "https://kurs-4f337-default-rtdb.europe-west1.firebasedatabase.app/"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355881658823:android:da20988622fa996acd91e2",
+        "android_client_info": {
+          "package_name": "com.example.kurs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrjjkNj8N9E7L0qKKFiF_RNtpG4F6xoYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355881658823:android:ff2d962fe130653fcd91e2",
+        "android_client_info": {
+          "package_name": "com.example.kurss"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrjjkNj8N9E7L0qKKFiF_RNtpG4F6xoYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
